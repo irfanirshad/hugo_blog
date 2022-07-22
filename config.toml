@@ -1,0 +1,18 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Irfan's Blog 2022"
+theme = "hyde"
+disqusShortname = "spf13"
+googleAnalytics = "Your tracking code"
+
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/username/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/username/"}
+  ]
+
+  [params]
+  description = "HELLO MY NAME IS BAHEEJA. Configure in .toml file"
+  themeColor = "theme-base-08"
+  layoutReverse = true
